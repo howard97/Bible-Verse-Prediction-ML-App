@@ -9,6 +9,10 @@ Follow these Steps to use this project
 (2) Clone the repository
 
     git clone https://github.com/howard97/Bible-Verse-Prediction-ML-App.git
+ 
+(3) cd into your cloned directory by running this command
+
+     cd Bible-Verse-Prediction-ML-App
   
 (3) install pipenv by running this command in your terminal.
 
