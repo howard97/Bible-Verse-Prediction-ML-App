@@ -3,6 +3,7 @@
 We are predicting Bible verses between new testament and old testament
 
 Follow these Steps to use this project
+
 (1) install python3
 
 (2) Clone the repository
